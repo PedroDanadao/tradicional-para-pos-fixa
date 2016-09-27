@@ -1,0 +1,25 @@
+Relatório
+Devo dizer que gostei desse EP. Finalmente pude compreender
+as estruturas de pilhas, filase árvores e por elas em prática.
+além de aprender mais sobre strings e ponteiros.
+
+primeiro me encarreguei de criar a função para verificar se
+a expressao recebida estava bem formada. essa eu copiei lá 
+do site do prof. Paulo msm.
+
+depois fui fazer a conversao da expressao de in-fixa para a pos-fixa.
+aih eh que complicou bastante.
+tive que mecher em muita caoisa no código e nas funçoes
+que estava criando para a conversão. eh até capaz do senhor
+encontrar algumas gambiarras na segunda parte.
+mas no final deu tudo certo. criei a função n_p_f
+que recebia uma expressao matematica e devolvia ela na forma de
+notação pós-fixa
+
+depois veio a parte fácil do programa. criar arvores que armazenam os
+calculos da expressao, criar uma pilha dessas árvores e calcular
+e expressao toda a partir da arvore criada.
+fiquei surpreso como a parte de calcular foi a mais fácil, precisando apenas de
+uma simples função recursiva.
+ver o programa rodando direitinho foi algo que me alegrou bastante depois de um 
+dia cansativo fazendo o EP.
